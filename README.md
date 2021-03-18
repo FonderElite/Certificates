@@ -1,2 +1,2 @@
-# Certificates
-Certifications Acquired through the years of determination
+# NSE_1 Certificate
+<img src="NSE1Certificate.png">
