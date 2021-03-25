@@ -24,3 +24,5 @@
 
 # **Solo Learn Jquery**
 <img src="JQuery_certificate.jpg">
+
+>Certificates earned through hardwork
