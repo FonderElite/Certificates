@@ -14,15 +14,15 @@
 <img src="python.png">
 
 # **Solo Learn React**
-<img src="react_certificate.jpg" width=500>
+<img src="react_certificate.jpg" width=700>
 
 # **Solo Learn PHP**
-<img src="PHP_certificate.jpg"  width=500>
+<img src="PHP_certificate.jpg"  width=700>
 
 # **Solo Learn Javascript**
-<img src="JavaScript_certificate.jpg"  width=500>
+<img src="JavaScript_certificate.jpg"  width=700>
 
 # **Solo Learn Jquery**
-<img src="jQuery_certificate.jpg"  width=500>
+<img src="jQuery_certificate.jpg"  width=700>
 
 
