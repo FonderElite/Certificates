@@ -23,6 +23,6 @@
 <img src="JavaScript_certificate.jpg">
 
 # **Solo Learn Jquery**
-<img src="JQuery_certificate.jpg">
+<img src="jQuery_certificate.jpg">
 
 >Certificates earned through hardwork
