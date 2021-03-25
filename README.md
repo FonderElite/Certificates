@@ -14,4 +14,4 @@
 <img src="python.png">
 
 # **Solo Learn React**
-<img src="react_cert.jpg">
+<img src="react_certificate.jpg">
