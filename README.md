@@ -14,15 +14,15 @@
 <img src="python.png">
 
 # **Solo Learn React**
-<img src="react_certificate.jpg">
+<img src="react_certificate.jpg" width=500>
 
 # **Solo Learn PHP**
-<img src="PHP_certificate.jpg">
+<img src="PHP_certificate.jpg"  width=500>
 
 # **Solo Learn Javascript**
-<img src="JavaScript_certificate.jpg">
+<img src="JavaScript_certificate.jpg"  width=500>
 
 # **Solo Learn Jquery**
-<img src="jQuery_certificate.jpg">
+<img src="jQuery_certificate.jpg"  width=500>
 
->Certificates earned through hardwork
+
