@@ -9,3 +9,6 @@
 
 # **Linux Operating System**
 <img src="linux.png">
+
+# **Python Certified**
+<img src="python.png">
