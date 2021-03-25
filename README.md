@@ -15,3 +15,6 @@
 
 # **Solo Learn React**
 <img src="react_certificate.jpg">
+
+# **Solo Learn PHP**
+<img src="php_certificate.jpg">
