@@ -18,3 +18,6 @@
 
 # **Solo Learn PHP**
 <img src="PHP_certificate.jpg">
+
+# **Solo Learn Javascript**
+<img src="javascript_certificate.jpg">
