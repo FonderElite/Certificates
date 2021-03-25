@@ -23,4 +23,4 @@
 <img src="JavaScript_certificate.jpg">
 
 # **Solo Learn Jquery**
-<img src="Jquery_certificate.jpg">
+<img src="JQuery_certificate.jpg">
