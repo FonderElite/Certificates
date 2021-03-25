@@ -20,4 +20,7 @@
 <img src="PHP_certificate.jpg">
 
 # **Solo Learn Javascript**
-<img src="javascript_certificate.jpg">
+<img src="JavaScript_certificate.jpg">
+
+# **Solo Learn Jquery**
+<img src="Jquery_certificate.jpg">
