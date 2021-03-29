@@ -25,4 +25,5 @@
 # **Solo Learn Jquery**
 <img src="jQuery_certificate.jpg"  width=700>
 
-
+# **Solo Learn C++**
+<img src="https://www.sololearn.com/certificates/course/en/20043750/1051/landscape/png" width=700>
