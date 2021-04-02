@@ -4,15 +4,6 @@
 # **Advent Of Cyber 2 Certificate**
 <img src="https://github.com/FonderElite/FonderElite/raw/main/THM-50CSIP19SL.png">
 
-# **Computer Fundamentals**
-<img src="compfunda.png">
-
-# **Linux Operating System**
-<img src="linux.png">
-
-# **Python Certified**
-<img src="python.png">
-
 # **Solo Learn React**
 <img src="react_certificate.jpg" width=700>
 
@@ -27,3 +18,6 @@
 
 # **Solo Learn C++**
 <img src="https://www.sololearn.com/certificates/course/en/20043750/1051/landscape/png" width=700>
+
+# **Codecademy Bash**
+<img src="bash.png" width=700>
