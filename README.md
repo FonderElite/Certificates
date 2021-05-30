@@ -21,3 +21,6 @@
 
 # **Codecademy Bash**
 <img src="bash.png" width=700>
+
+# **Solo Learn GoLang**
+<img src="go.png" width=700>
