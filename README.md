@@ -23,4 +23,4 @@
 <img src="bash.png" width=700>
 
 # **Solo Learn GoLang**
-<img src="go.png" width=700>
+<img src="go_certificate.png" width=700>
