@@ -7,6 +7,9 @@
 # **Advent Of Cyber 4 Certificate**
 <img src="aoc2022_official_cert.png">
 
+# **HTB Apocalypse 2023**
+<img src="HTB_APOC2023.png">
+
 # **Solo Learn React**
 <img src="react_certificate.jpg" width=700>
 
@@ -27,5 +30,4 @@
 
 # **Solo Learn GoLang**
 <img src="go_certificate.jpg" width=700>
-
 
