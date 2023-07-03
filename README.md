@@ -13,6 +13,9 @@
 # **TCM Malware Triage & Analysis**
 <img src="tcm_malware.png" width=700>
 
+# **Practical API Hacking**
+<img src="PAH_THM.png" width=700>
+
 # **Solo Learn React**
 <img src="react_certificate.jpg" width=700>
 
