@@ -16,7 +16,7 @@
 # **Practical API Hacking**
 <img src="PAH_THM.png" width=700>
 
-# ** Python 201 For Hackers **
+# **Python 201 For Hackers**
 <img src="https://i.ibb.co/JpzrHV2/python201.png" width=700>
 
 # **Solo Learn React**
