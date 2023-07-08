@@ -19,6 +19,9 @@
 # **Python 201 For Hackers**
 <img src="https://i.ibb.co/JpzrHV2/python201.png" width=700>
 
+# **Rust 101**
+<img src="https://i.ibb.co/JpzrHV2/Rust_cert.png" width=700>
+
 # **Solo Learn React**
 <img src="react_certificate.jpg" width=700>
 
